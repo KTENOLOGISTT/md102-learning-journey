@@ -23,7 +23,7 @@ Understand how local group policies affect the Windows registry and how to verif
 4. Opened Run (Win + R) and executed regedit
 5. Navigated to:
    HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Policies\Explorer
-6. Verified "NoControlPanel" registry key exists
+6. Verified "NoControlPanel" registry key does not exist
 
 ![Registry key](../assets/lab03-policy-removed.png)
 
