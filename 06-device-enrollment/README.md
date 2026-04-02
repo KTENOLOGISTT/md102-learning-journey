@@ -19,13 +19,9 @@ Navigate to:
 
 Settings → Accounts → Access work or school  
 
-Click:
+Click: Connect  
 
-Connect  
-
-Then select:
-
-Join this device to Microsoft Entra ID
+Then select: Join this device to Microsoft Entra ID
 
 ---
 
