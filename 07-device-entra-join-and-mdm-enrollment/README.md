@@ -45,7 +45,7 @@ dsregcmd /status
 
 ### Evidence
 
-![dsregcmd verification](assets/lab07-dsregcmd-status.png)
+![dsregcmd verification](../assets/lab07-dsregcmd-status.png)
 
 ---
 
@@ -62,7 +62,7 @@ Entra ID → Devices → All devices
 
 ### Evidence
 
-![entra device list](assets/lab07-entra-device-list.png)
+![entra device list](../assets/lab07-entra-device-list.png)
 
 ---
 
@@ -80,7 +80,7 @@ Intune Admin Center → Devices → All devices
 
 ### Evidence
 
-![intune device](assets/lab07-intune-device.png)
+![intune device](../assets/lab07-intune-device.png)
 
 ---
 
@@ -97,7 +97,7 @@ Settings → Accounts → Access work or school
 
 ### Evidence
 
-![windows connection](assets/lab07-windows-connection.png)
+![windows connection](../assets/lab07-windows-connection.png)
 
 ---
 
@@ -110,4 +110,3 @@ The device was successfully:
 * Verified across local system, Entra ID, and Intune
 
 This confirms proper identity integration and MDM enrollment.
-****
