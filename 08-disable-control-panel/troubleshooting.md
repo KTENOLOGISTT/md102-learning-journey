@@ -165,7 +165,7 @@ Result:
 
 * Control Panel access blocked
 
-![Control Panel Blocked](../assets/lab08-cotrol-panel-blocked.png)
+![Control Panel Blocked](../assets/lab08-control-panel-blocked.png)
 
 ---
 
