@@ -34,7 +34,7 @@ Settings:
 - Platform: Windows 10 and later
 - Profile type: Compliance policy
 
-![Policy Overview](..assets/lab08-policy-overview.png)
+![Policy Overview](../assets/lab08-policy-overview.png)
 
 ---
 
@@ -79,6 +79,6 @@ Additionally, a device restart was initiated to accelerate policy application an
 
 Device reported as **Compliant**
 
-![Compliance Compliant](..assets/lab09-compliance-compliant.png)
+![Compliant](../assets/lab08-compliance-compliant.png)
 
 ---
