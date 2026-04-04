@@ -30,7 +30,7 @@ Place inside:
 * 7z2600-x64.exe
 * IntuneWinAppUtil.exe
 
-![intunewin package](assets/10-intunewin-package-created.png)
+![intunewin package](../assets/10-intunewin-package-created.png)
 
 ---
 
@@ -46,7 +46,7 @@ IntuneWinAppUtil.exe -c C:\IntuneApps\7zip -s 7z2600-x64.exe -o C:\IntuneApps\7z
 
 * Output file created: `7z2600-x64.intunewin`
 
-![app upload](assets/10-app-upload.png)
+![app upload](../assets/10-app-upload.png)
 
 
 ---
@@ -63,7 +63,7 @@ Upload:
 
 * 7z2600-x64.intunewin
 
-![app info](assets/10-app-information.png)
+![app info](../assets/10-app-information.png)
 
 
 ---
@@ -77,7 +77,7 @@ Upload:
 
 ### Evidence
 
-![program config](assets/10-program-config.png)
+![program config](../assets/10-program-config.png)
 
 ---
 
@@ -99,7 +99,7 @@ Upload:
 
 ### Evidence
 
-![requirements](assets/10-requirements-config.png)
+![requirements](../assets/10-requirements-config.png)
 
 ---
 
@@ -110,7 +110,7 @@ Upload:
 
 ### Evidence
 
-![detection](assets/10-detection-rule.png)
+![detection](../assets/10-detection-rule.png)
 
 ---
 
@@ -133,7 +133,7 @@ C:\Program Files\7-Zip
 
 ### Evidence
 
-![assignment](assets/10-assignment-config.png)
+![assignment](../assets/10-assignment-config.png)
 
 ---
 
@@ -164,7 +164,7 @@ Notification received:
 
 ### Evidence
 
-![client install](assets/10-installation-success-client.png)
+![client install](../assets/10-installation-success-client.png)
 
 ---
 
@@ -183,7 +183,7 @@ Result:
 
 ### Evidence
 
-![intune status](assets/10-intune-install-status.png)
+![intune status](../assets/10-intune-install-status.png)
 
 ---
 
