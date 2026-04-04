@@ -24,7 +24,7 @@ Devices → Configuration → Create
 Settings:
 
 * Platform: Windows 10 and later
-* Profile type: Settings catalog
+* Profile type: Settings 
 
 ---
 
@@ -45,6 +45,10 @@ Enable:
 Assign to:
 
 * All devices
+
+
+
+![Policy Created](../assets/lab08-policy-created.png)
 
 ---
 
@@ -105,14 +109,6 @@ Expected:
 
 ---
 
-## Evidence
-
-![Policy Created](../assets/lab08-policy-created.png)
-![Policy Success](../assets/lab08-policy-success.png)
-![Registry Check](../assets/lab08-registry-check.png)
-![Control Panel Blocked](../assets/lab08-control-panel-blocked.png)
-
----
 
 ## Result
 
