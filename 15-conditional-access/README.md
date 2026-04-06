@@ -58,7 +58,7 @@ Created a policy to enforce device compliance.
 
 - Mode: On
 
-![Conditional Access Policy](../assets/lab15-conditional-access-policy.png)
+![Conditional Access Policy](../assets/lab15-contional-access-policy.png)
 
 ---
 
